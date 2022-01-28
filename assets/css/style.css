@@ -1,4 +1,15 @@
-body {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 150%;
+@import url('https://fonts.googleapis.com/css2?family=Paytone+One&family=Source+Sans+Pro&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    border: none;
 }
+
+body {
+   
+    font-family: source sans pro, sans-serif;
+    font-weight: 400;
+}
+
+/* the wrap around anchor code is taken from love running got the title "tots Play to return to home page if clicked on*/
