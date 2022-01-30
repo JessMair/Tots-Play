@@ -10,6 +10,27 @@ body {
    
     font-family: source sans pro, sans-serif;
     font-weight: 400;
+    color: #182025
 }
+
+/* headings and logo */
+
+h1, h2{
+    font-family: Paytone One, sans-serif;
+    font-weight: 400;
+    text-transform: capitalize;
+    text-decoration: none;
+    letter-spacing: 1px;
+    color: #1d6372
+}
+
+
+
+
+
+
+
+
+
 
 /* the wrap around anchor code is taken from love running got the title "tots Play to return to home page if clicked on*/
