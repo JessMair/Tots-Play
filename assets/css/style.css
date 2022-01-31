@@ -27,10 +27,34 @@ h1, h2{
 #logo {
     float: left;
     font-size: 300%;
+    padding-left: 20px;
 }
 
+/* navigation links */
 
+#menu {
+    font-size: 120%;
+    letter-spacing: 1px;
+}
 
+#menu, #logo {
+    line-height: 100px;
+}
+
+#menu li {
+    float: right;
+    list-style-type: none;
+    margin-right: 20px;
+}
+
+#menu a {
+    text-decoration: none;
+    color: #11bbb2;
+}
+
+#menu a:hover {
+    color: #8c342c;
+}
 
 
 
