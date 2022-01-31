@@ -56,6 +56,19 @@ h1, h2{
     color: #8c342c;
 }
 
+#hero-outer {
+    height: 500px;
+    width: 100%;
+    overflow: hidden;
+}
+#hero-image {
+    height: 600px;
+    width: 100%;
+    background-image: url(../images/Hero\ image\ of\ a\ toddler\ boy\ happily\ playing\ in\ the\ ball\ pit.jpg);
+}
 
+/* creates something of animation for hero image */ 
+
+  
 
 /* the wrap around anchor code is taken from love running got the title "tots Play to return to home page if clicked on*/
