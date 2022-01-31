@@ -24,9 +24,10 @@ h1, h2{
     color: #1d6372
 }
 
-
-
-
+#logo {
+    float: left;
+    font-size: 300%;
+}
 
 
 
