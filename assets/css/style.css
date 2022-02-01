@@ -123,15 +123,22 @@ h1, h2{
 #about-us {
     margin: 0 auto;
     padding-left: 300px
+
     
 }
 
 #about-image {
-    padding-top: 30px;
+    margin: 40%
+    padding-top: 10px;
     float: right;
     padding-right: 40px;
     padding-bottom: 30px;
+}
 
-    
+#paragraph-one {
+    width: 40%;
+    margin: 30px
+    line-height: 30px
+    margin-bottom: 30px
 }
 /* the wrap around anchor code is taken from love running got the title "tots Play to return to home page if clicked on*/
