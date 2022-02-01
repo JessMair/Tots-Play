@@ -129,16 +129,33 @@ h1, h2{
 
 #about-image {
     margin: 40%
-    padding-top: 10px;
+    padding-top: 30px;
     float: right;
     padding-right: 40px;
     padding-bottom: 30px;
 }
 
 #paragraph-one {
+    background-color: rgba(17,187,178, 0.1);
     width: 40%;
     margin: 30px
     line-height: 30px
     margin-bottom: 30px
+    padding-left: 30px;
 }
+
+/* on site services that are availble */ 
+
+#services {
+    color:#8c342c
+    width: 20%;
+    height: 300px
+    float: :left
+    padding: 30px 0 0 10px;
+    text-align: center;
+    border: 4px 
+
+}       
+
+
 /* the wrap around anchor code is taken from love running got the title "tots Play to return to home page if clicked on*/
