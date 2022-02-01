@@ -121,8 +121,8 @@ h1, h2{
 }
 
 #about-us {
-    font-size: 200%
-    position: center;
+    margin: 0 auto;
+    padding-left: 300px
     
 }
 
