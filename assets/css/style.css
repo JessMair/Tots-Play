@@ -70,7 +70,7 @@ h1, h2{
     color: #8c342c;
 }
 
- 
+
 #hero-image {
     height: 600px;
     max-width: 100%;
@@ -91,17 +91,47 @@ h1, h2{
     font-family: source sans pro, sans-serif;
     text-transform: capitalize;
     letter-spacing: 1px;
+    text-align: center;
 
     width: 450px;
     height: 300px;
 
     padding-top: 10px;
-    padding-left: 20px;
+    padding-left: 30px;
 
     background-color: #f5f5f5;
 
     bottom: 20px;
     right: 150px;
     position: absolute;
+}
+
+/* general and about us section */ 
+
+#hero-image {
+    height: 600px;
+}
+
+#left-about {
+    padding-top: 30px;
+    padding-left: 40px;
+    font-size: 100%;
+    width: 45%;
+    float: left;
+}
+
+#about-us {
+    font-size: 200%
+    position: center;
+    
+}
+
+#about-image {
+    padding-top: 30px;
+    float: right;
+    padding-right: 40px;
+    padding-bottom: 30px;
+
+    
 }
 /* the wrap around anchor code is taken from love running got the title "tots Play to return to home page if clicked on*/
