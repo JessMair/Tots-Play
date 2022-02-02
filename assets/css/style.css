@@ -1,161 +1,159 @@
-@import url('https://fonts.googleapis.com/css2?family=Paytone+One&family=Source+Sans+Pro&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Paytone+One&family=Source+Sans+Pro:wght@300;400;600;700;900&display=swap');
 * {
     margin: 0;
     padding: 0;
     border: none;
 }
-
 body {
    
-    font-family: source sans pro, sans-serif;
+    font-family: 'source sans pro', sans-serif;
     font-weight: 400;
-    color: #182025
+    color: #182025;
 }
-
 /* headings and logo */
-
 h1, h2{
-    font-family: Paytone One, sans-serif;
+    font-family: 'Paytone One', sans-serif;
     font-weight: 400;
     text-transform: capitalize;
     text-decoration: none;
     letter-spacing: 1px;
-    color: #1d6372
+    color: #1d6372;
 }
-
+.container {
+  max-width: 1140px;
+  width: 100%;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
 #logo {
     float: left;
     font-size: 300%;
     padding-left: 20px;
 }
-
 /* navigation links */
-
 #menu {
     font-size: 120%;
     letter-spacing: 1px;
 }
-
 #menu, #logo {
     line-height: 100px;
 }
-
 #menu li {
     float: right;
     list-style-type: none;
     margin-right: 20px;
 }
-
 #menu a {
     text-decoration: none;
     color: #11bbb2;
 }
-
 #menu a:hover {
     color: #8c342c;
 }
-
 #hero-outer {
     height: 500px;
     width: 100%;
     overflow: hidden;
 }
-
 #cover-text, #cover-text h2{
-    color: #1d6372
+    color: #1d6372;
 }
-
 #cover-text h3 {
     color: #8c342c;
 }
-
-
 #hero-image {
     height: 600px;
     max-width: 100%;
     background-image: url(../images/Hero\ image\ of\ a\ toddler\ boy\ happily\ playing\ in\ the\ ball\ pit.jpg);
     background-position: center;
     background-repeat: no-repeat;
-    background-size: cover
+    background-size: cover;
 }
-
 #hero-outer {
     position: relative;
 }
-
 /* creates something of animation for hero image */ 
-
 #cover-text {
     font-size: 150%;
-    font-family: source sans pro, sans-serif;
+    font-family: 'source sans pro', sans-serif;
     text-transform: capitalize;
     letter-spacing: 1px;
     text-align: center;
-
-    width: 450px;
-    height: 300px;
-
+    width: 80%;
     padding-top: 10px;
     padding-left: 30px;
-
     background-color: #f5f5f5;
-
     bottom: 20px;
-    right: 150px;
+    right: auto;
     position: absolute;
 }
-
+#about-image img {
+  width: 100%;
+}
 /* general and about us section */ 
-
 #hero-image {
     height: 600px;
 }
-
-#left-about {
-    padding-top: 30px;
-    padding-left: 40px;
-    font-size: 100%;
-    width: 45%;
-    float: left;
+#general {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
 }
-
 #about-us {
-    margin: 0 auto;
-    padding-left: 300px
-
-    
+  padding-top: 50px;
+  font-size: 32px;  
 }
-
-#about-image {
-    margin: 40%
-    padding-top: 30px;
-    float: right;
-    padding-right: 40px;
-    padding-bottom: 30px;
-}
-
 #paragraph-one {
-    background-color: rgba(17,187,178, 0.1);
-    width: 40%;
-    margin: 30px
-    line-height: 30px
-    margin-bottom: 30px
-    padding-left: 30px;
+  font-size: 20px;
+  padding: 20px;
+  background-color: rgba(17,187,178, 0.1);
 }
-
 /* on site services that are availble */ 
-
 #services {
-    color:#8c342c
-    width: 20%;
-    height: 300px
-    float: :left
-    padding: 30px 0 0 10px;
-    text-align: center;
-    border: 4px 
-
-}       
-
-
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+}     
+.four-boxes {
+  padding: 70px 0;
+  text-align: center;
+  border: 1px solid black;
+  border-radius: 5px;
+}
+.blue {
+background-color: #0096FF;
+}
+.orange {
+background-color: #ff5733;
+}
+.yellow {
+background-color: #fdff33;
+}
+.green {
+ background-color: #43ff33; 
+}
+.footer {
+  padding: 30px;
+  text-align: center;
+  background-color: rgb(78, 78, 78);
+  color: white;
+}
+.footer a {
+  color: white;
+}
 /* the wrap around anchor code is taken from love running got the title "tots Play to return to home page if clicked on*/
+@media(max-width: 650px) {
+  #general {
+    grid-template-columns: 1fr;
+  }
+}
+@media(max-width: 500px) {
+  #services {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+@media(max-width: 350px) {
+  #services {
+    grid-template-columns: 1fr;
+  }
+}
