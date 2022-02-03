@@ -157,3 +157,16 @@ background-color: #fdff33;
     grid-template-columns: 1fr;
   }
 }
+
+/* gallery */
+
+#photos {
+  clear: both;
+  line-height: 0;
+  column-count: 2;
+  column-gap: 2px;
+}
+
+#photos > img {
+  width: 100%;
+}
