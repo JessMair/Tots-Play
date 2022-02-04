@@ -26,28 +26,26 @@
             </ul>
         </nav>
     </header>
-
     <section id="form">
-        <form> 
-            <form method="POST" action="https://formdump.codeinstitute.net/">
-                <h2>Get In Touch</h2>
-            
-            <textarea name="name" id="Name" placeholder="Name" rows="2" cols="44"></textarea>
-            <br>
-            <textarea name="email" id="email" placeholder="Email" rows="2" cols="44"></textarea>
-            <br>
-            <textarea name="message" id="Message" placeholder="Write your message here" rows="15" cols="44"></textarea>
-            <br>
-            <input type="submit" value="Submit Message">
-            <br>
-            <input type="reset" value="Clear Form">
-            
-            
-    
-        
-
+      <form id="contact" action="" method="post">
+        <h4>Contact us for more info or just a chat</h4>
+        <fieldset>
+          <input placeholder="Your name" type="text" tabindex="1" required autofocus>
+        </fieldset>
+        <fieldset>
+          <input placeholder="Your Email Address" type="email" tabindex="2" required>
+        </fieldset>
+        <fieldset>
+          <input placeholder="Your Phone Number (optional)" type="tel" tabindex="3" required>
+        </fieldset>
+        <fieldset>
+          <textarea placeholder="Type your message here...." tabindex="5" required></textarea>
+        </fieldset>
+        <fieldset>
+          <button name="submit" type="submit" id="contact-submit" data-submit="...Sending">Submit</button>
+        </fieldset>
+      </form>
     </section>
-
     <footer class="footer">
         <p>Address: 115-116 Scotts Road, High Wycombe, Buckinghamshire HP9 0LY</p>
             <br>
@@ -57,11 +55,8 @@
        | <a href="mailto:admin@totspplay.com">Email us @ tots play</a></p>
        
     </footer>
-
     <!--font awesome script-->
-
     <script src="https://kit.fontawesome.com/57c95e8d45.js" crossorigin="anonymous"></script>
-
   </div>
 </body>
 </html>
