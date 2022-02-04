@@ -150,13 +150,13 @@ Below is a link to the wireframes I had completed
 ## Colour Palette
 <img src="assets/images/colorwheel.png" alt="Colour Palette">
 
-I used the site coolers to bring together a colour palatte for the base of the website 
+I used the site coolers to bring together a colour palatte for the base of the website. The 2 dominant colours used were #1D6372 and #8C342C. These colours were chosen as they are eye catching, however not too brights and therefore portray a more positive image of Tots Play. 
 After implementing the hero image, I did use the inspiration of the bright colours for the colouring of the "services" bar. However the base colour of the site is based on the colour chart above. 
 
 ## Fonts
 
 I used google fonts to discover and use fonts that I felt portrayed a playful yet well organised impression. 
-I decided on Playtone One for the headings and Source Sans Pro as these two fonts compliment one another, whilst achieving my goal for the type of impression I want the fonts to portray.  
+I decided on Playtone One for the headings and Source Sans Pro as these two fonts compliment one another. These fonts were found on Google fonts.   
 
 
 # Technologies used
@@ -179,14 +179,19 @@ I decided on Playtone One for the headings and Source Sans Pro as these two font
 
 
 # Testing
-At first when I was adding the icons, they were not appearing on the site. I searched as to why this may have been and found that I had not embedded the file link into the index.html file. I placed this at the bottom of the file below the footer. Now that the directory was in the file, the icons appeared without further issue. 
-When testing I found the link from contact us page does not lead directly the gallery page. I discovered that this is due to the link for the contact us and gallery page not being embedded in the others respective html file. I added this and it resolved the issue. 
+I had a few issues withthe site during the process of develoing it. I tested the site after the implementation of each section. 
+Along the way, I found the folllowing errors:
 
-Image in the about section was not loading, although it had initially worked. I changed the image and that led to the image being fixed. 
+- At first when I was adding the icons, they were not appearing on the site. I searched as to why this may have been and found that I had not embedded the file link into the index.html file. I placed this at the bottom of the file below the footer. Now that the directory was in the file, the icons appeared without further issue. 
 
-The images on the gallery page were not loading. I spoke to tutor support who made me aware that the file paths to the files were absolute and not relative as they should have been. I went in and amended this error and straight away the images appeared on the site. 
+- I found that the link from 'Contact Us' page does not lead directly the 'Gallery' page. I discovered that this is due to the link for the 'Contact Us' and 'Gallery' page not being embedded in the others respective html file. I rectified this and it resolved the issue. 
 
-The contact us page's background was sitting to the top of the header, this has been amended by 
+- The image in the 'About Us' section was not loading, although it had initially worked. I tried many times to resolve the issue on my own, however withno joy. In the end I changed the image and that led to the issue being fixed. 
+
+- The images on the gallery page were not loading. I spoke to tutor support who made me aware that the file paths to the files were absolute, not relative as they should have been. I went in and amended this error and the images appeared on the site. 
+
+- The contact us page's background was sitting to the top of the header. I couldn't understand why this had happened. I asked a slack member who was not able to help to locate the issue. 
+I spoke to Spence Barriball, my mentor, and he was able to amend this issue for me. It had something to do with the syntax I had added for the form. I had unwittingly opened two form codes and not closed either. The issue was still more comples than this and therefore I have to credit Spence Barriball for resolving this issue for me. 
 
 
 ## Validators
@@ -198,6 +203,32 @@ I checked the HTML code with W3C Jigsaw and it returned 1 error;
 There is no issue with the presentaion if this heading on the site and therefore I do not intend on changing this code. 
 
 I checked the CSS with W3C Jigsaw and no errors were found. 
+
+# Responsiveness 
+
+I checked the website's responsiveness using Google Chrome Dev Tools. Mobile, tablet and desktop sizes were tested and all worked well. 
+It also responded on each breakpoint that were set up on Media Query's and no visual or functional errors found
+
+
+# Version Control 
+
+- GitHub
+- Gitpod
+
+Gitpod served as the local repository and IDE. 
+GitHUb served as the remote respsitory. 
+
+The following steps were followed to maintain version control;
+
+- I created a repository on GitHub and named it 'Tots Play' 
+- I then signed in to Gitpod and opened a new workspace via the repository name 'Tots Play'
+- I created the pages, folders and files on GitPod
+- I saved my work on GitPod at regular intervals and pushed it to GitHub to keep it safe
+
+This is the process i followed after completing each significant section of code, I typed teh following into the terminal:
+- git add . (This added the work to git)
+- git commit -m "COMMIT MESSAGE" (This commited the work)
+- git push (This pushed the work to GitHub)
 
 
 # Deployment 
