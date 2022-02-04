@@ -82,8 +82,9 @@ The website has an home page, gallery page and a contact us page. The design of 
 The goal of the site is to be very digestable and to only contain information which the viewer requires or that which makes a positive impression without overwhlming the overall design. 
 
 ## Home Page
-<img src="assets/images/header.png" alt="Header>
 
+
+<img src="assets/images/main.png" alt="Main Image">
 
 
 
@@ -104,7 +105,7 @@ The goal of the site is to be very digestable and to only contain information wh
 
 ## Services
 
-<img src="assets/images/Services.png" alt="Services">
+<img src="assets/images/block.png" alt="Options">
 
 
 ## Contact Us Page 
