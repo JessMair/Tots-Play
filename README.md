@@ -108,7 +108,8 @@ The design of this project was to make the contect simplistic to view on any scr
 
 Below is a link to the wireframes I had completed 
 
-Wireframe Tots Play 
+[Tots Play Wirerame](assets/images/"wireframetp")
+
 
 
 
