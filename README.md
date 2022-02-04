@@ -25,7 +25,6 @@ I did not want the site to appear cluttered or present over whelming content. I 
 
 
 
-
 # UX - User Experience 
 
 
