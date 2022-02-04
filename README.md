@@ -82,22 +82,33 @@ The website has an home page, gallery page and a contact us page. The design of 
 The goal of the site is to be very digestable and to only contain information which the viewer requires or that which makes a positive impression without overwhlming the overall design. 
 
 ## Home Page
+<img src="assets/images/header.png" alt="Header>
+
 
 
 
 ## Navigation
+<img src="assets/images/navigationbar.png" alt="Navigation bar">
 
+## About Us
+<img src="assets/images/aboutus.png" alt="About Us">
 
 
 ## Footer
+<img src="assets/images/footer.png" alt="Footer">
 
 
 
 ## Gallery Page
+<img src="assets/images/gallery.png" alt="Gallery">
 
+## Services
+
+<img src="assets/images/Services.png" alt="Services">
 
 
 ## Contact Us Page 
+<img src="assets/images/form.png" alt="Form">
 
 
 
