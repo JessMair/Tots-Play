@@ -2,6 +2,8 @@
 
 <img src="assets/images/responsiveimage.png" alt="Am I Responsive">
 
+
+
 My first milestone project, undertaken as part of the Code Institutes Diploma in Software Development. 
 Here is the link for [Tots Play](https://jessmair.github.io/Tots-Play/index.html) 
 
@@ -125,8 +127,26 @@ The Fonts used:
 I used google fonts to discover and use fonts that I felt portrayed a playful yet well organised impression. 
 
 
+# Technologies used
+- [HTML5](https://en.wikipedia.org/wiki/HTML) for markup 
+- [CSS3](https://en.wikipedia.org/wiki/CSS) for style 
+- [Google Fonts](https://fonts.google.com/) for fonts 
+- [Github]( https://github.com/) to keep the file 
+- [Gitpod]( https://www.gitpod.io/) for version control
+- [Coolers.co]( https://coolors.co/) to build a colour palette for the site 
+- [Font Awesome](https://fontawesome.com/v5.15/icons) for icons
 
-# Local Testing
+# Resources
+- [Code Institute](https://codeinstitute.net/) Course material
+- [Code Institute](https://codeinstitute.net/) Slack community 
+- [W3Schools]( https://www.w3schools.com/) 
+- [Am I Responsive](http://ami.responsivedesign.is/) – Check the sites responsiveness
+- [W3C](https://validator.w3.org/) Validate HTML code
+- [W3C]( https://jigsaw.w3.org/css-validator/) CSS Validation 
+
+
+
+# Testing
 At first when I was adding the icons, they were not appearing on the site. I searched as to why this may have been and found that I had not embedded the file link into the index.html file. I placed this at the bottom of the file below the footer. Now that the directory was in the file, the icons appeared without further issue. 
 When testing I found the link from contact us page does not lead directly the gallery page. I discovered that this is due to the link for the contact us and gallery page not being embedded in the others respective html file. I added this and it resolved the issue. 
 
