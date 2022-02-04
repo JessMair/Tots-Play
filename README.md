@@ -156,6 +156,7 @@ After implementing the hero image, I did use the inspiration of the bright colou
 ## Fonts
 
 I used google fonts to discover and use fonts that I felt portrayed a playful yet well organised impression. 
+I decided on Playtone One for the headings and Source Sans Pro as these two fonts compliment one another, whilst achieving my goal for the type of impression I want the fonts to portray.  
 
 
 # Technologies used
