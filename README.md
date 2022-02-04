@@ -1,7 +1,6 @@
 # Tots Play - A Milestone Project
 
-<img src="assets/images/responsive.png" alt="Am I Responsive">
-<position: center;>
+<img src="assets/images/responsiveimage.png" alt="Am I Responsive">
 
 My first milestone project, undertaken as part of the Code Institutes Diploma in Software Development. 
 Here is the link for Tots Play - insert link http//:totsplay 
@@ -42,7 +41,7 @@ The contact us page's background was sitting to the top of the header, this has 
 
 The project was planned in 5 stages; 
 
-Strategy Plane 
+5Strategy Plane 
 
 Scope Plane 
 
