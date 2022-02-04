@@ -188,6 +188,16 @@ The images on the gallery page were not loading. I spoke to tutor support who ma
 The contact us page's background was sitting to the top of the header, this has been amended by 
 
 
+## Validators
+
+I checked the HTML code with W3C Jigsaw and it returned 1 error;
+
+- Warning: Consider using the h1 element as a top-level heading only (all h1 elements are treated as top-level headings by many screen readers and other tools).
+
+There is no issue with the presentaion if this heading on the site and therefore I do not intend on changing this code. 
+
+I checked the CSS with W3C Jigsaw and no errors were found. 
+
 
 # Deployment 
 
