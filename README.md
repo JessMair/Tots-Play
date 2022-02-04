@@ -82,34 +82,58 @@ The website has an home page, gallery page and a contact us page. The design of 
 The goal of the site is to be very digestable and to only contain information which the viewer requires or that which makes a positive impression without overwhlming the overall design. 
 
 ## Home Page
-
-
 <img src="assets/images/main.png" alt="Main Image">
 
+The hero image is colourful and shows a happy child playing in the ball pit. All to indicate a vibrant and joyful place to bring a child. 
+The image also features a banner that has opening times detailed. This is to make this key information easy to find on the site.  
 
 
 ## Navigation
 <img src="assets/images/navigationbar.png" alt="Navigation bar">
 
+-Available in the header of all three pages. The navigation bar is responsive and includes three page links; Home, Gallery and Contact Us. The logo also leads back to the Home page. 
+These links will allow the user to navigate to the different pages of the site from any of the three pages. 
+
+
 ## About Us
 <img src="assets/images/aboutus.png" alt="About Us">
+
+A paragraph that builds an idea of what to expect from Tots Play. 
+I have kept the language simple yet descriptive. I have mentioned what services are offered whilst making spending time at Tots Play enticing by using words that describe the place as fun, yet gentle. 
+There is also an image that shows the apparatus on site. 
 
 
 ## Footer
 <img src="assets/images/footer.png" alt="Footer">
+The footer is fixed and therefore visible on all three pages. 
+It contains address information which is vital. 
+It also has a responsive link for Facebook, so when clicked on lead to Tots Play’s Facebook page. The Facebook icon was sourced from Font Awesome. 
+The phone number, if clicked on from a mobile will allow a call to be placed directly which is very useful for a parent on the go. 
+The email link opens up an outlook or whatever email server is set as the users preference to make sending an email very easy and accessible.  
 
 
 
 ## Gallery Page
 <img src="assets/images/gallery.png" alt="Gallery">
 
-## Services
+A selection of pictures showing toddlers having fun whilst playing and socialising at Tots Play 
 
+
+
+## Services
 <img src="assets/images/block.png" alt="Options">
+
+This bar has a non responsive design and is purely for information purposes only. 
+A breakdown of what is on offer. The entry prices are also displayed, again key information that the parent would be keen to access. 
+The colours used are inspired by the colours from the ball pit and give the site design a synergy. 
+The headings are accompanied by logo fonts from google fonts. This is to add a decorative element and again at a quick glance assist the user in intuiting what the section contains.  
+
 
 
 ## Contact Us Page 
 <img src="assets/images/form.png" alt="Form">
+
+A simple form is included that asks for basic details and gives the option to free type a message to Tots Play
 
 
 
