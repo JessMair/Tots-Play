@@ -2,10 +2,9 @@
 
 <img src="assets/images/responsiveimage.png" alt="Am I Responsive">
 
-
-
 My first milestone project, undertaken as part of the Code Institutes Diploma in Software Development. 
 Here is the link for [Tots Play](https://jessmair.github.io/Tots-Play/index.html) 
+
 
 
 # Who Is This Website For?
@@ -23,11 +22,7 @@ I did not want the site to appear cluttered or present over whelming content. I 
 
 
 
-
-
 # UX - User Experience 
-
-
 
 The project was planned in 5 stages; 
 
@@ -64,7 +59,6 @@ I did not want the site to be overwhelming for those who view it, and I feel tha
 
 
 
-
 # The Scope Plane
 
 The features of this project:
@@ -73,6 +67,7 @@ The features of this project:
 A home page with live links
 1 page to include pictures only 
 1 page to have a form 
+
 
 
 # The Structure Plane 
@@ -158,6 +153,14 @@ After implementing the hero image, I did use the inspiration of the bright colou
 I used google fonts to discover and use fonts that I felt portrayed a playful yet well organised impression. 
 I decided on Playtone One for the headings and Source Sans Pro as these two fonts compliment one another. These fonts were found on Google fonts.   
 
+## Features For The Future
+Below are features that I would have liked to add but have been unable to do so yet due to time constraints and not having the knowledge to do so yet either. 
+-	I will add a video of Tots play instead of the image of the apparatus to give the user a better scope of the size of Tots Play and all it has to offer. 
+This is as some people prefer to see  things visually than read about it.
+-	I would like to add a google map image of the location of Tots Play to the footer, so the user has a visual of where the address is on a map. 
+-	Also a live link embedded in the address, when clicked on gives an option to open google maps to show location of address on their map. 
+
+
 
 # Technologies used
 - [HTML5](https://en.wikipedia.org/wiki/HTML) for markup 
@@ -167,6 +170,7 @@ I decided on Playtone One for the headings and Source Sans Pro as these two font
 - [Gitpod]( https://www.gitpod.io/) for version control
 - [Coolers.co]( https://coolors.co/) to build a colour palette for the site 
 - [Font Awesome](https://fontawesome.com/v5.15/icons) for icons
+- [Unsplash](https://unsplash.com/) for all the images on the site
 
 # Resources
 - [Code Institute](https://codeinstitute.net/) Course material
@@ -175,6 +179,7 @@ I decided on Playtone One for the headings and Source Sans Pro as these two font
 - [Am I Responsive](http://ami.responsivedesign.is/) – Check the sites responsiveness
 - [W3C](https://validator.w3.org/) Validate HTML code
 - [W3C]( https://jigsaw.w3.org/css-validator/) CSS Validation 
+- [W3Schools](https://www.w3schools.com/) - helped me in researching and fixing errors along the way
 
 
 
@@ -194,6 +199,7 @@ Along the way, I found the folllowing errors:
 I spoke to Spence Barriball, my mentor, and he was able to amend this issue for me. It had something to do with the syntax I had added for the form. I had unwittingly opened two form codes and not closed either. The issue was still more comples than this and therefore I have to credit Spence Barriball for resolving this issue for me. 
 
 
+
 ## Validators
 
 I checked the HTML code with W3C Jigsaw and it returned 1 error;
@@ -204,10 +210,13 @@ There is no issue with the presentaion if this heading on the site and therefore
 
 I checked the CSS with W3C Jigsaw and no errors were found. 
 
+
+
 # Responsiveness 
 
 I checked the website's responsiveness using Google Chrome Dev Tools. Mobile, tablet and desktop sizes were tested and all worked well. 
 It also responded on each breakpoint that were set up on Media Query's and no visual or functional errors found
+
 
 
 # Version Control 
@@ -229,6 +238,7 @@ This is the process i followed after completing each significant section of code
 - git add . (This added the work to git)
 - git commit -m "COMMIT MESSAGE" (This commited the work)
 - git push (This pushed the work to GitHub)
+
 
 
 # Deployment 
