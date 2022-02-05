@@ -137,7 +137,9 @@ The design of this project was to make the content simplistic to view on any scr
 
 Below is a link to the wireframes I had completed 
 
-[Tots Play Wireframe](assets/images/"wireframetp")
+[Tots Play Wireframe page 1](assets/images/"wire1.jpg")
+[Tots Play Wireframe page 2](assets/images/"wire2.jpg")
+[Tots Play Wireframe page 3](assets/images/"wire3.jpg")
 
 
 
