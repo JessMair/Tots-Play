@@ -51,14 +51,12 @@ The project was planned in 5 stages.
 -	As a user I want the site to be easy to learn so that when I return in the future, the sites layout is familiar as I have processed it the first time due to the site being logical in its presentation
 
 
-## My Goal as the Owner
+## The Owner
 
-I wanted to create a site that was had the following. 
-
-- Easy to navigate - This was to ensure first time learning, thus making the site intuitive.
-- I want a site that although designed to be viewed by adults, gave a clear impression of being a place that is suitable for children
-- I want the site to display all the key information that would be useful to help the visitor decide to physically come to Tots Play.  
-- I want colourful and joyful images to convey a place that offers positive experiences to its visitors. 
+- As the owner I want a site that is easy to navigate - This is to ensure first time learning, thus making the site intuitive.
+- As the owner I want a site that although designed to be viewed by adults, gave a clear impression of being a place that is suitable for children
+- As the owner I want the site to display all the key information that would be useful to help the visitor decide to physically come to Tots Play.  
+- As the owner I want colourful and joyful images to convey a place that offers positive experiences to its visitors. 
 
 
 
