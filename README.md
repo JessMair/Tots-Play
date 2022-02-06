@@ -206,11 +206,16 @@ I spoke to Spence Barriball, my mentor, and he was able to amend this issue for 
 
 ## Validators
 
+<img src="assets/images/htmlvalidated.png" alt="HTML Validation">
+
 I checked the HTML code with W3C Jigsaw and it returned 1 error;
 
 - Warning: Consider using the h1 element as a top-level heading only (all h1 elements are treated as top-level headings by many screen readers and other tools).
 
 There is no issue with the presentation if this heading on the site and therefore I do not intend on changing this code. 
+
+
+<img src="assets/images/cssvalidation.png" alt="CSS Validation">
 
 I checked the CSS with W3C Jigsaw and no errors were found. 
 
