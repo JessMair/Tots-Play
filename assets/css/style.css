@@ -141,7 +141,7 @@ background-color: #fdff33;
 .footer a {
   color: white;
 }
-/* the wrap around anchor code is taken from love running got the title "tots Play to return to home page if clicked on*/
+
 @media(max-width: 650px) {
   #general {
     grid-template-columns: 1fr;
@@ -169,7 +169,7 @@ background-color: #fdff33;
 }
 #form {
   width: 100%;
-  padding: 20rem;
+  padding: 2rem;
   padding-top: 10px;
   margin: 10px;
   border-radius: 4px;
@@ -177,8 +177,8 @@ background-color: #fdff33;
   background-color: rgb(140,52, 44, 0.8);
   box-sizing: border-box;
   display: inline-block;
-  object-fit: cover;
 }
+
 #contact input[type="text"],
 #contact input[type="email"],
 #contact input[type="tel"],
@@ -274,3 +274,4 @@ fieldset {
 :-ms-input-placeholder {
   color: #888;
 }
+

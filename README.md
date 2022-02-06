@@ -204,7 +204,6 @@ Along the way, I found the following errors:
 I spoke to Spence Barriball, my mentor, and he was able to amend this issue for me. It had something to do with the syntax I had added for the form. I had unwittingly opened two form codes and not closed either. The issue was still more complex than this and therefore I have to credit Spence Barriball for resolving this issue for me. 
 
 
-
 ## Validators
 
 I checked the HTML code with W3C Jigsaw and it returned 1 error;
