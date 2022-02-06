@@ -203,6 +203,18 @@ Along the way, I found the following errors:
 - The contact us page's background was sitting to the top of the header. I couldn't understand why this had happened. I asked a slack member who was not able to help to locate the issue. 
 I spoke to Spence Barriball, my mentor, and he was able to amend this issue for me. It had something to do with the syntax I had added for the form. I had unwittingly opened two form codes and not closed either. The issue was still more complex than this and therefore I have to credit Spence Barriball for resolving this issue for me. 
 
+- The form was not reposnive on a screen below 831px. This turned out to be an issue caused by using 20rem for the padding instead of 2rem. Having amended that the site is now responsive and was tested on a physical devive as well as google dev tools. 
+
+## User Stories Testing 
+
+I have tested the site for achieving the goals set out in “User Stories”
+-	The site is easy to navigate, and it is easy to find way back from one page to another. 
+-	The information regarding the opening hours is clearly visible on home page. 
+-	The images used throughout site build a good picture of what any visitor can expect from a trip to Tots Play.
+-	The site is not overwhelming or cluttered. 
+-	An email or call can be placed from clicking on the details of each in the footer.
+-	The company address is clearly placed in the footer and visible on all three pages of the site. 
+-	The site is not complex and very easy to learn the first time it is visited. 
 
 ## Validators
 
